@@ -1,4 +1,4 @@
-**CRM-Dashboard**
+#CRM-Dashboard
 ![CRM - Sales Dashboard pg 1](https://github.com/abehashahab/CRM-Dashboard/assets/18510258/4922493a-b986-4752-af14-10d868a5f86b)
 
 **Objective:**
